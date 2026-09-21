@@ -1,3 +1,7 @@
 streamlit
 openai
-dotenvp
+datetime
+pandas
+csv
+dotenv
+os
